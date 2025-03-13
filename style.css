@@ -9,4 +9,33 @@ h1,
 h2 {
   font-family: 'Playfair Display', serif;
 }
-footer {text-align: center;}
+header, main {text-align: center;}
+
+main img{width: 30%;
+padding: 10px;}
+
+.popis {
+  padding: 0;
+}
+.popis1 {text-align: left;
+  display: flex;
+  justify-content: space-between;
+  flex-grow: 1;
+  }
+  .popis2 {text-align: left;
+    display: flex;
+    justify-content: space-between;
+    flex-grow: 1;
+    
+
+  }
+.losos img {float: left;}
+.losos {text-align: left;}
+
+.tagliatelle img{float: right;}
+.tagliatelle{text-align: right;}
+
+section {padding: 10%;
+        margin: 10%;}
+
+
